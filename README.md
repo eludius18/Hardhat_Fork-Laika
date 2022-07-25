@@ -41,7 +41,7 @@ npx hardhat run --network fork scripts/deploy.js
 ## Login in Laika with your Metamask Account
 
 ```shell
-https://web.getlaika.app/
+(https://web.getlaika.app/)
 ```
 
 ## Sync Deployed Smart Contract with Laika
